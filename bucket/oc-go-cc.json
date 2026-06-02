@@ -1,16 +1,16 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "description": "Proxy Claude Code requests to OpenCode Go API",
     "homepage": "https://github.com/samueltuyizere/oc-go-cc",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/samueltuyizere/oc-go-cc/releases/download/v0.1.8/oc-go-cc_windows-amd64.exe",
-            "hash": "6037de5b02658ec6000bffc6efc0faa298f68920021d9ab4603aaa88fbf9430b"
+            "url": "https://github.com/samueltuyizere/oc-go-cc/releases/download/v0.1.9/oc-go-cc_windows-amd64.exe",
+            "hash": "83edc72ea810149c625327fbaf7d1c1fbd0afff52b1c88954b11fc956dcfca58"
         },
         "arm64": {
-            "url": "https://github.com/samueltuyizere/oc-go-cc/releases/download/v0.1.8/oc-go-cc_windows-arm64.exe",
-            "hash": "dfe5b757b268c4e3860d5f2051379be476f13d60196a88804e66a72f747ea04d"
+            "url": "https://github.com/samueltuyizere/oc-go-cc/releases/download/v0.1.9/oc-go-cc_windows-arm64.exe",
+            "hash": "c1addf2e10c66420d3ed5d1e53a47f6bb4442b57f132cef03fc624cdf954f734"
         }
     },
     "bin": "oc-go-cc.exe",
